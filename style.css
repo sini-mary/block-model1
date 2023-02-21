@@ -1,0 +1,13 @@
+.phrase{
+    height: 30px;
+    padding: 20px;
+    margin: 5%;
+    border: solid blue ;
+ }
+ .outer{
+    border:dotted yellowgreen;
+    
+ } 
+ .text{
+    font-weight: bolder;
+ }
